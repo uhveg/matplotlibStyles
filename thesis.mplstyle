@@ -61,7 +61,7 @@ text.latex.preamble : \usepackage{amsmath} \usepackage{amssymb}
 xtick.labelsize : 10
 ytick.labelsize : 10
 legend.fontsize : 10
-legend.title_fontsize : 12
+legend.title_fontsize : 10
 axes.titlesize : 16
 axes.labelsize : 14
 
