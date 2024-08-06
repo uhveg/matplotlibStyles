@@ -55,7 +55,7 @@ mathtext.fontset : dejavuserif
 
 # Use LaTeX for math formatting
 text.usetex : True
-text.latex.preamble : \usepackage{amsmath} \usepackage{amssymb}
+text.latex.preamble : \usepackage{amsmath} \usepackage{amssymb} \usepackage{bm}
 
 # Fontsizes
 xtick.labelsize : 10
